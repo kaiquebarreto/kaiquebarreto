@@ -2,6 +2,7 @@
 
 ### About Me
 Hey there! I’m Kaique Barreto, 24 years old, currently living in Brazil. 
+
 Skills: NODE JS / PHP / REACT / JS / HTML / CSS
 
 ### Technologies
