@@ -1,15 +1,12 @@
-### Hi there 👋, my name is Kaique
-#### I am FullStack Developer
+![Profile views](https://gpvc.arturio.dev/kaiquebarreto)  
 
+### About Me
+Hey there! I’m Kaique Barreto, 24 years old, currently living in Brazil. 
 Skills: NODE JS / PHP / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+### Technologies
+- Front-end Development with HTML, CSS, Javascript and React.
+- Back-end Development with NodeJs, PHP, JavaScript, Python.
+- Web Design with Elementor, WpBakery.
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kaiquebarreto)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kaique_barreto/)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquebarreto)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquebarreto&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/kaiquebarreto)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='29'>](https://github.com/kaiquebarreto)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='29'>](https://www.instagram.com/kaique_barreto/)  
