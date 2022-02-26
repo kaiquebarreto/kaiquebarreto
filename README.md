@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Arturs
+### Hi there 👋, my name is Kaique
 #### I am FullStack Developer
 
 Skills: NODE JS / PHP / REACT / JS / HTML / CSS
