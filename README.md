@@ -1,5 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/kaiquebarreto)  
-
 ### About Me
 Hey there! I’m Kaique Barreto, 24 years old, currently living in Brazil. 
 
